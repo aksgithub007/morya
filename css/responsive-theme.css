@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 767px){
+	.respnav{
+		display: block;
+	}
+	.menu{
+		display: none;
+	}
+
+
+
+
+@media screen and (max-width: 320px){
+.quick_mail{
+	text-align:left;
+}
+.cont_us{
+	width: 100%;
+}
+.cont_us li a{
+	font-size:10.5px;
+}
+}
